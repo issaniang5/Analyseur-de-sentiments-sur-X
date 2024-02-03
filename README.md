@@ -3,7 +3,7 @@
 - Trouvez le jeu de données ici : https://www.kaggle.com/karan842/twitter-sentimental-analysis/data
 
 
-<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Twitter%20Sentimental%20Analysis/tweet.jpg' height=800px width=800px></img>
+<img src='https://github.com/issaniang5/Analyseur-de-sentiments-sur-X/blob/main/tweet.webp' height=800px width=800px></img>
 
 - Suivez-moi sur Twitter : https://twitter.com/KuchBhiKaran
 
