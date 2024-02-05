@@ -50,6 +50,19 @@ Lemmatization.
 - Écriture d'une fonction qui peut prédire le sentiment des tweets.
 - Test de quelques phrases et détermination de leur sentiment.
 
+## 🔵 Visualisations: 
 
+- Distribution of Data 
+
+<img src='https://github.com/issaniang5/Analyseur-de-sentiments-sur-X/blob/main/Images/data.png' height=800px width=800px></img>
+
+- Confusion Matrix
+
+
+<img src='https://github.com/issaniang5/Analyseur-de-sentiments-sur-X/blob/main/Images/confusion1.png' height=800px width=800px></img>
+
+<img src='https://github.com/issaniang5/Analyseur-de-sentiments-sur-X/blob/main/Images/confusion2.png' height=800px width=800px></img>
+
+<img src='https://github.com/issaniang5/Analyseur-de-sentiments-sur-X/blob/main/Images/confusion3.png' height=800px width=800px></img>
 
 🔵 Merci ! <3
